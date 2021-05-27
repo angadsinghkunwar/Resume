@@ -301,8 +301,11 @@ section{
 .smedia{
     color: #fff;
     margin:9%;
-
 }
 .smedia img { 
     height:20vh;
+    width:10vw;
+}
+.smedia a{
+    color:#fff;
 }
